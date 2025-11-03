@@ -1,0 +1,72 @@
+.add-transaction-container {
+  max-width: 500px;
+  margin: 2rem auto;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #fff;
+  font-family: Arial, sans-serif;
+}
+
+.add-transaction-container h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.error {
+  color: red;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.add-transaction-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.add-transaction-form label {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.add-transaction-form input,
+.add-transaction-form select {
+  padding: 0.4rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  margin-top: 0.2rem;
+}
+
+.add-transaction-form button {
+  padding: 0.5rem;
+  background: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.add-transaction-form button:hover {
+  background: #2980b9;
+}
+
+.success {
+  background-color: #2ecc71;
+  color: white;
+  padding: 0.6rem;
+  text-align: center;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  animation: fadeInOut 3s forwards;
+}
+
+@keyframes fadeInOut {
+  0% { opacity: 0; }
+  10% { opacity: 1; }
+  90% { opacity: 1; }
+  100% { opacity: 0; }
+}
