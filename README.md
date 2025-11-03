@@ -24,27 +24,22 @@ Frontend:
 -Includes form validation, loading states, and error messages for better UX.
 
 
+<img width="1920" height="927" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/b371e1ec-33d5-4fc0-835b-d39cccb1c108" />
 
-<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/aa46a109-1ece-4db9-bfcc-8c8c7e9450a1" />
+<img width="1920" height="913" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/111d4a29-cd84-489e-8723-3c5e6c09648a" />
 
+<img width="1920" height="934" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/275c0fe5-71ef-412b-bade-41ed1c424f10" />
 
+<img width="1920" height="927" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/bc2778e6-b8a2-4a79-ba6e-0b670fca5a3b" />
 
-<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/7122908c-5481-48bb-96b0-f5b916e7b3fa" />
+<img width="1920" height="933" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/370f8246-c59b-4ef4-b9cd-08ff93d0978a" />
 
-
-
-<img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/de04fd46-2068-4693-be8b-c1ff505acf42" />
-
-
-
-<img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/e5b0ba0a-8093-4b84-afe2-513f03635e09" />
+<img width="1920" height="919" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/1f90f41b-9a6a-4fee-8e44-aff6924439c2" />
 
 
 
-<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/713d6818-2aa2-4dbf-9ccf-d66463451091" />
 
 
 
-<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/b701c4b2-3755-46af-9ebd-bf0a31bc0a8b" />
 
 
